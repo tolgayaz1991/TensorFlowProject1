@@ -1,2 +1,2 @@
 # TensorFlowProject1
-Linear Regression
+Linear Regression with TensorFlow
